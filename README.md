@@ -12,6 +12,12 @@
 </div>
 
 <div>
+  <h2>Статистика:</h2>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoastedPikachu&theme=github_dark"/>
+</div>
+
+<div>
   <h2>Технологии, которые я использую</h2>
 
   <h3>Для вёрстки:</h3>
