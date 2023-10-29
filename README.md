@@ -17,6 +17,12 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoastedPikachu&theme=github_dark"/>
 </div>
 
+<div style="display: flex; justify-content: between">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language? username=RoastedPikachu&theme=github_dark&exclude=Node.js"/>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RoastedPikachu&theme=github_dark&exclude=Node.js"/>
+</div>
+
 <div>
   <h2>Технологии, которые я использую</h2>
 
