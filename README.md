@@ -18,7 +18,7 @@
 </div>
 
 <div style="display: flex; justify-content: between">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language? username=RoastedPikachu&theme=github_dark&exclude=Node.js"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RoastedPikachu&theme=github_dark&exclude=Node.js"/>
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RoastedPikachu&theme=github_dark"/>
 <div>
