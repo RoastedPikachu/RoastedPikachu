@@ -11,7 +11,7 @@
   </a>
 </div>
 
-<div align="center">
+<div style="display: flex; justify-content: between;">
   <h2>Технологии, которые я использую</h2>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40px" height="40px"/>&nbsp;
@@ -24,7 +24,7 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" width="40px" height="40px"/>&nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" width="40px" height="40px"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" width="40px" height="40px"/>&nbsp;
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" width="40px" height="40px"/>&nbsp;
 
