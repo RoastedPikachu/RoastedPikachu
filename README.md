@@ -1,6 +1,7 @@
 <div align="center">
-  <h1>Привет, Я Борис</h1>
-  <h2>Junior/Junior+ Frontend разработчик</h2>
+  <h1 style="color: #ffffff">Привет, Я Борис</h1>
+  
+  <h2 style="color: #ffffff">Junior/Junior+ Frontend разработчик</h2>
 
   <a href="https://github.com/RoastedPikachu">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
@@ -12,7 +13,7 @@
 </div>
 
 <div>
-  <h2>Статистика:</h2>
+  <h2 style="color: #ffffff">Статистика:</h2>
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoastedPikachu&theme=github_dark"/>
 </div>
@@ -23,9 +24,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RoastedPikachu&theme=github_dark"/>
 <div>
   
-<h2>Технологии, которые я использую</h2>
+<h2 style="color: #ffffff">Технологии, которые я использую</h2>
 
-<h3>Для вёрстки:</h3>
+<h3 style="color: #ffffff">Для вёрстки:</h3>
 
 <div style="display: flex; justify-content: between">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40px" height="40px"/> &nbsp;
@@ -34,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" width="40px" height="40px"/> &nbsp;
 </div>
 
-<h3>Для frontend составляющей:</h3>
+<h3 style="color: #ffffff">Для frontend составляющей:</h3>
 
 <div style="display: flex; justify-content: between">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40px" height="40px"/> &nbsp;
@@ -47,13 +48,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" width="40px" height="40px"/> &nbsp;
 </div>
 
-<h3>Для контроля версий и работы в команде:</h3>
+<h3 style="color: #ffffff">Для контроля версий и работы в команде:</h3>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40px" height="40px"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="Gitlab" width="40px" height="40px"/> &nbsp;
 </div>
 
-<h3>Для тестирования:</h3>
+<h3 style="color: #ffffff">Для тестирования:</h3>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" width="40px" height="40px"/>&nbsp;
