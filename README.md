@@ -58,3 +58,14 @@
 <h3 style="color: #ffffff">Для тестирования:</h3>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" width="40px" height="40px"/>&nbsp;
+
+<h3>Для дизайна:</h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40px" height="40px"/>
+
+<h3 style="color: #ffffff">Для разработки</h3>
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" />
+  <i class="devicon-markdown-original" title="Markdown" width="40px" height="40px"></i>
+</div>
