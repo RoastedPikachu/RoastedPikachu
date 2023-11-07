@@ -19,7 +19,7 @@
 </div>
 
 <div style="display: flex; justify-content: between">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RoastedPikachu&theme=github_dark&exclude=Node.js"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RoastedPikachu&theme=github_dark&exclude=Node.js"/>
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RoastedPikachu&theme=github_dark"/>
 <div>
@@ -61,11 +61,14 @@
 
 <h3>Для дизайна:</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40px" height="40px"/>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40px" height="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop" width="40px" height="40px"/>
+</div>
 
 <h3 style="color: #ffffff">Для разработки</h3>
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" title="Webstorm" width="40px" height="40px"/>
   <i class="devicon-markdown-original" title="Markdown" width="40px" height="40px"></i>
 </div>
