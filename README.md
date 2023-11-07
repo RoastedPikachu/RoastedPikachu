@@ -70,5 +70,5 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" title="Webstorm" width="40px" height="40px"/>
-  <i class="devicon-markdown-original" title="Markdown" width="40px" height="40px"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" title="Markdown" width="40px" height="40px"/>
 </div>
