@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="color: #ffffff">Привет, Я Борис</h1>
   
-  <h2 style="color: #ffffff">Junior/Junior+ Frontend разработчик</h2>
+  <h2 style="color: #ffffff">Junior+/Middle- Frontend разработчик</h2>
 
   <a href="https://github.com/RoastedPikachu">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
