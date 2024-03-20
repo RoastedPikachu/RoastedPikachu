@@ -3,7 +3,7 @@
   
   <h2 style="color: #ffffff">Junior+/Middle- Frontend разработчик</h2>
 
-  <a href="https://github.com/RoastedPikachu">
+  <a href="https://www.linkedin.com/in/boris-karabut-78667a263/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
 
