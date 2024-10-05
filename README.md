@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="color: #ffffff">Привет, Я Борис</h1>
   
-  <h2 style="color: #ffffff">Junior+/Middle- Frontend разработчик</h2>
+  <h2 style="color: #ffffff">Middle/Middle- Frontend разработчик</h2>
 
   <a href="https://www.linkedin.com/in/boris-karabut-78667a263/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
@@ -15,13 +15,11 @@
 <div>
   <h2 style="color: #ffffff">Статистика:</h2>
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoastedPikachu&theme=github_dark"/>
+  ![Statistics](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 </div>
 
-<div style="display: flex; justify-content: between">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RoastedPikachu&theme=github_dark&exclude=Node.js"/>
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RoastedPikachu&theme=github_dark"/>
+<div style="display: flex; justify-content: start">
+  <img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars">
 <div>
   
 <h2 style="color: #ffffff">Технологии, которые я использую</h2>
