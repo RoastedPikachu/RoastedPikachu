@@ -15,7 +15,7 @@
 <div>
   <h2 style="color: #ffffff">Статистика:</h2>
 
-  ![Statistics](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  ![Statistics](https://github-readme-stats.vercel.app/api?username=RoastedPikachu&hide_title=true&show_icons=true&theme=transparent)
 </div>
 
 <div style="display: flex; justify-content: start">
