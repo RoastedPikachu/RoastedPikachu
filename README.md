@@ -19,7 +19,7 @@
 </div>
 
 <div style="display: flex; justify-content: start">
-  <img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars">
+  <img src="https://img.shields.io/github/stars/RoasterPikachu?label=Stars" alt="stars">
 <div>
   
 <h2 style="color: #ffffff">Технологии, которые я использую</h2>
