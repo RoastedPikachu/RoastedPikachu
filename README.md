@@ -16,6 +16,8 @@
   <h2 style="color: #ffffff">Статистика:</h2>
 
   ![Statistics](https://github-readme-stats.vercel.app/api?username=RoastedPikachu&hide_title=true&show_icons=true&theme=transparent)
+
+  [![Codewars Badge](https://www.codewars.com/users/RoastedPikachu/badges/large)](https://www.codewars.com/users/RoastedPikachu)
 </div>
 
 <div style="display: flex; justify-content: start">
@@ -83,6 +85,3 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 </div>
 
-<h3 style="color: #ffffff">Статистика в приложухах:</h3>
-
-[![Codewars Badge](https://www.codewars.com/users/RoastedPikachu/badges/large)](https://www.codewars.com/users/RoastedPikachu)
