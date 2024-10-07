@@ -19,7 +19,7 @@
 </div>
 
 <div style="display: flex; justify-content: start">
-  <img src="https://img.shields.io/github/stars/RoasterPikachu?label=Stars" alt="stars">
+  <img src="https://img.shields.io/github/stars/RoastedPikachu?label=Stars" alt="stars">
 <div>
   
 <h2 style="color: #ffffff">Технологии, которые я использую</h2>
@@ -82,3 +82,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" alt="WebStorm" title="WebStorm"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 </div>
+
+<h3 style="color: #ffffff">Статистика в приложухах:</h3>
+
+[![Codewars Badge](https://www.codewars.com/users/RoastedPikachu/badges/large)](https://www.codewars.com/users/RoastedPikachu)
